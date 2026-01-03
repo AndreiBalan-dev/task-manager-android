@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Task Manager - Balan Andrei Marian &amp; Cirlan Alexandru Damian</string>
+
+    <string name="hello_blank_fragment">Fragment gol</string>
+
+    <string name="menu_settings">Setări</string>
+
+    <string name="task_title">Titlu</string>
+    <string name="task_description">Descriere</string>
+    <string name="save">Salvează</string>
+    <string name="add_task">Adaugă task</string>
+
+    <string name="username">Nume utilizator</string>
+
+    <string name="sort_by">Sortare task-uri</string>
+    <string name="sort_newest">Cele mai noi</string>
+    <string name="sort_title">Alfabetic (A–Z)</string>
+
+    <string name="title_tasks">Task-urile mele</string>
+    <string name="title_task_editor">Task</string>
+    <string name="title_settings">Setări</string>
+
+    <string name="no_tasks">Nu există task-uri. Apasă + pentru a adăuga unul.</string>
+
+    <string name="title_add_task">Adaugă task</string>
+    <string name="title_edit_task">Editează task</string>
+
+    <string name="error_title_required">Titlul este obligatoriu</string>
+</resources>
